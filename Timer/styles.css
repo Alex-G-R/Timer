@@ -1,0 +1,10 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: mediumspringgreen;
+}
+#timer{
+    font-family: Arial;
+    font-size: 5em;
+}
